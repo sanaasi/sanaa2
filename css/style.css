@@ -1,0 +1,26 @@
+.navbar{
+    /* box-shadow: x y blur color; */
+     box-shadow:  0 5px 10px #A2CED6;
+}
+
+.nav-item{
+  margin-left: 10px;
+}
+.nav-link{
+   text-transform: none;
+   font-size: 20px;
+}
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(50,147,166,0.7 ),rgba(50,147,166,0.7 )),
+     url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.auth img{
+  margin-top: -50px;
+}
+h5{
+  color: #7D868D;
+}
+
